@@ -1,0 +1,1136 @@
+{
+    "Albania": {
+        "Capital City": "Tirana",
+        "Area": "28,748km^2",
+        "Demonym": "Albanian",
+        "Population": "2,845,955"
+    },
+    "Algeria": {
+        "Capital City": "Algiers",
+        "Area": "2,381,741km^2",
+        "Demonym": "Algerian",
+        "Population": "43,600,000"
+    },
+    "American_Samoa": {
+        "Capital City": "Pago Pago",
+        "Area": "77km^2",
+        "Demonym": "Samoan",
+        "Population": "55,212"
+    },
+    "Angola": {
+        "Capital City": "Luanda",
+        "Area": "1,246,700km^2",
+        "Demonym": "nan",
+        "Population": "31,127,674"
+    },
+    "Antigua_and_Barbuda": {
+        "Capital City": "St. John\\'s, Antigua and Barbuda",
+        "Area": "440km^2",
+        "Demonym": "nan",
+        "Population": "96,286"
+    },
+    "Argentina": {
+        "Capital City": "Buenos Aires",
+        "Area": "2,780,400km^2",
+        "Demonym": "Argentine",
+        "Population": "nan"
+    },
+    "Armenia": {
+        "Capital City": "Yerevan",
+        "Area": "29,743km^2",
+        "Demonym": "Armenian",
+        "Population": "nan"
+    },
+    "Australia": {
+        "Capital City": "Canberra",
+        "Area": "7,692,024km^2",
+        "Demonym": "Australian",
+        "Population": "25,638,900"
+    },
+    "Austria": {
+        "Capital City": "Vienna",
+        "Area": "83,879km^2",
+        "Demonym": "Austrian",
+        "Population": "8,902,600"
+    },
+    "Azerbaijan": {
+        "Capital City": "nan",
+        "Area": "86,600km^2",
+        "Demonym": "Azerbaijani",
+        "Population": "10,127,874"
+    },
+    "The_Bahamas": {
+        "Capital City": "Nassau, Bahamas",
+        "Area": "13,878km^2",
+        "Demonym": "Bahamian",
+        "Population": "385,637"
+    },
+    "Bahrain": {
+        "Capital City": "Manama",
+        "Area": "780km^2",
+        "Demonym": "Bahraini",
+        "Population": "1,569,446"
+    },
+    "Bangladesh": {
+        "Capital City": "Dhaka",
+        "Area": "148,460km^2",
+        "Demonym": "Bangladeshi",
+        "Population": "161,376,708"
+    },
+    "Barbados": {
+        "Capital City": "Bridgetown",
+        "Area": "439km^2",
+        "Demonym": "Barbadian",
+        "Population": "287,025"
+    },
+    "Belarus": {
+        "Capital City": "Minsk",
+        "Area": "207,595km^2",
+        "Demonym": "Belarusian",
+        "Population": "nan"
+    },
+    "Belgium": {
+        "Capital City": "City of Brussels",
+        "Area": "30,689km^2",
+        "Demonym": "Belgian",
+        "Population": "nan"
+    },
+    "Belize": {
+        "Capital City": "Belmopan",
+        "Area": "22,966km^2",
+        "Demonym": "Belizean",
+        "Population": "408,487"
+    },
+    "Benin": {
+        "Capital City": "Porto-Novo",
+        "Area": "114,763km^2",
+        "Demonym": "nan",
+        "Population": "nan"
+    },
+    "Bhutan": {
+        "Capital City": "Thimphu",
+        "Area": "38,394km^2",
+        "Demonym": "Bhutanese",
+        "Population": "754,388"
+    },
+    "Bolivia": {
+        "Capital City": "Sucre",
+        "Area": "1,098,581km^2",
+        "Demonym": "Bolivian",
+        "Population": "nan"
+    },
+    "Bosnia_and_Herzegovina": {
+        "Capital City": "Sarajevo",
+        "Area": "51,129km^2",
+        "Demonym": "Bosnian",
+        "Population": "3,301,000"
+    },
+    "Botswana": {
+        "Capital City": "Gaborone",
+        "Area": "581,730km^2",
+        "Demonym": "Batswana",
+        "Population": "2,254,068"
+    },
+    "Brazil": {
+        "Capital City": "Bras\u00edlia",
+        "Area": "8,515,767km^2",
+        "Demonym": "Brazilian",
+        "Population": "210,147,125"
+    },
+    "Brunei": {
+        "Capital City": "Bandar Seri Begawan",
+        "Area": "5,765km^2",
+        "Demonym": "Bruneian",
+        "Population": "459,500"
+    },
+    "Bulgaria": {
+        "Capital City": "Sofia",
+        "Area": "110,993km^2",
+        "Demonym": "Bulgarian",
+        "Population": "6,951,482"
+    },
+    "Burkina_Faso": {
+        "Capital City": "Ouagadougou",
+        "Area": "274,200km^2",
+        "Demonym": "nan",
+        "Population": "21,510,181"
+    },
+    "Burundi": {
+        "Capital City": "Gitega",
+        "Area": "27,834km^2",
+        "Demonym": "Burundian",
+        "Population": "11,865,821"
+    },
+    "Cambodia": {
+        "Capital City": "Phnom Penh",
+        "Area": "181,035km^2",
+        "Demonym": "Khmer",
+        "Population": "15,288,489"
+    },
+    "Cameroon": {
+        "Capital City": "Yaound\u00e9",
+        "Area": "475,442km^2",
+        "Demonym": "Cameroonian",
+        "Population": "26,545,864 "
+    },
+    "Canada": {
+        "Capital City": "Ottawa",
+        "Area": "9,984,670km^2",
+        "Demonym": "Canadian",
+        "Population": "37,971,020"
+    },
+    "Cape_Verde": {
+        "Capital City": "Praia",
+        "Area": "4,033km^2",
+        "Demonym": "Cape Verdean",
+        "Population": "543,767"
+    },
+    "Ivory_Coast": {
+        "Capital City": "Yamoussoukro",
+        "Area": "322,463km^2",
+        "Demonym": "nan",
+        "Population": "26,378,274"
+    },
+    "Central_African_Republic": {
+        "Capital City": "Bangui",
+        "Area": "622,984km^2",
+        "Demonym": "nan",
+        "Population": "4,666,368"
+    },
+    "Chad": {
+        "Capital City": "N\\'Djamena",
+        "Area": "1,284,000km^2",
+        "Demonym": "Chadian",
+        "Population": "13,670,084"
+    },
+    "Chile": {
+        "Capital City": "Santiago",
+        "Area": "756,096km^2",
+        "Demonym": "Chilean",
+        "Population": "17,574,003"
+    },
+    "China": {
+        "Capital City": "Beijing",
+        "Area": "9,596,961km^2",
+        "Demonym": "Chinese",
+        "Population": "1,400,050,000"
+    },
+    "Colombia": {
+        "Capital City": "Bogot\u00e1",
+        "Area": "1,141,748km^2",
+        "Demonym": "Colombian",
+        "Population": "50,372,424"
+    },
+    "Comoros": {
+        "Capital City": "Moroni, Comoros",
+        "Area": "1,659km^2",
+        "Demonym": "Comorian",
+        "Population": "nan"
+    },
+    "Republic_of_the_Congo": {
+        "Capital City": "Brazzaville",
+        "Area": "342,000km^2",
+        "Demonym": "nan",
+        "Population": "5,244,359"
+    },
+    "Democratic_Republic_of_the_Congo": {
+        "Capital City": "Kinshasa",
+        "Area": "2,345,409km^2",
+        "Demonym": "nan",
+        "Population": "nan"
+    },
+    "Costa_Rica": {
+        "Capital City": "San Jos\u00e9, Costa Rica",
+        "Area": "51,100km^2",
+        "Demonym": "Costa Rican",
+        "Population": "4,999,441"
+    },
+    "Croatia": {
+        "Capital City": "Zagreb",
+        "Area": "56,594km^2",
+        "Demonym": "Croatian",
+        "Population": "4,076,246"
+    },
+    "Cuba": {
+        "Capital City": "Havana",
+        "Area": "109,884km^2",
+        "Demonym": "Cuban",
+        "Population": "11,193,470"
+    },
+    "Cyprus": {
+        "Capital City": "Nicosia",
+        "Area": "9,251km^2",
+        "Demonym": "Cypriot",
+        "Population": "1,189,265"
+    },
+    "Czech_Republic": {
+        "Capital City": "Prague",
+        "Area": "78,866km^2",
+        "Demonym": "Czech",
+        "Population": "10,693,939"
+    },
+    "Denmark": {
+        "Capital City": "Copenhagen",
+        "Area": "42,933km^2",
+        "Demonym": "nan",
+        "Population": "5,824,857"
+    },
+    "Djibouti": {
+        "Capital City": "Djibouti (city)",
+        "Area": "23,200km^2",
+        "Demonym": "nan",
+        "Population": "nan"
+    },
+    "Dominica": {
+        "Capital City": "Roseau",
+        "Area": "750km^2",
+        "Demonym": "nan",
+        "Population": "71,625"
+    },
+    "Dominican_Republic": {
+        "Capital City": "Santo Domingo",
+        "Area": "48,671km^2",
+        "Demonym": "nan",
+        "Population": "10,735,896"
+    },
+    "Ecuador": {
+        "Capital City": "Quito",
+        "Area": "283,561km^2",
+        "Demonym": "Ecuadorian",
+        "Population": "17,084,358"
+    },
+    "Egypt": {
+        "Capital City": "Cairo",
+        "Area": "1,010,408km^2",
+        "Demonym": "Egyptian",
+        "Population": "100,075,480 "
+    },
+    "El_Salvador": {
+        "Capital City": "San Salvador",
+        "Area": "21,041km^2",
+        "Demonym": "Salvadoran",
+        "Population": "6,420,746"
+    },
+    "Eritrea": {
+        "Capital City": "Asmara",
+        "Area": "117,600km^2",
+        "Demonym": "nan",
+        "Population": "6,081,196"
+    },
+    "Estonia": {
+        "Capital City": "Tallinn",
+        "Area": "45,227km^2",
+        "Demonym": "Estonian",
+        "Population": "1,328,976"
+    },
+    "Ethiopia": {
+        "Capital City": "Addis Ababa",
+        "Area": "1,104,300km^2",
+        "Demonym": "Ethiopian",
+        "Population": "109,224,414"
+    },
+    "Fiji": {
+        "Capital City": "Suva",
+        "Area": "18,274km^2",
+        "Demonym": "nan",
+        "Population": "926,276"
+    },
+    "Finland": {
+        "Capital City": "Helsinki",
+        "Area": "338,424km^2",
+        "Demonym": "Finn",
+        "Population": "5,528,737"
+    },
+    "France": {
+        "Capital City": "Paris",
+        "Area": "640,679km^2",
+        "Demonym": "French",
+        "Population": "67,081,000"
+    },
+    "French_Guiana": {
+        "Capital City": "nan",
+        "Area": "83,534km^2",
+        "Demonym": "nan",
+        "Population": "nan"
+    },
+    "French_Polynesia": {
+        "Capital City": "Papeete",
+        "Area": "4,167km^2",
+        "Demonym": "nan",
+        "Population": "275,918"
+    },
+    "Gabon": {
+        "Capital City": "Libreville",
+        "Area": "267,667km^2",
+        "Demonym": "nan",
+        "Population": "2,119,275"
+    },
+    "The_Gambia": {
+        "Capital City": "Banjul",
+        "Area": "10,689km^2",
+        "Demonym": "Gambian",
+        "Population": "2,173,999"
+    },
+    "Georgia_(country)": {
+        "Capital City": "Tbilisi",
+        "Area": "69,700km^2",
+        "Demonym": "Georgian",
+        "Population": "3,716,858 "
+    },
+    "Germany": {
+        "Capital City": "Berlin",
+        "Area": "357,022km^2",
+        "Demonym": "German",
+        "Population": "83,166,711"
+    },
+    "Ghana": {
+        "Capital City": "Accra",
+        "Area": "239,567km^2",
+        "Demonym": "Ghanaian",
+        "Population": "31,072,940"
+    },
+    "Greece": {
+        "Capital City": "Athens",
+        "Area": "131,957km^2",
+        "Demonym": "Greek",
+        "Population": "10,724,599"
+    },
+    "Grenada": {
+        "Capital City": "St. George\\'s, Grenada",
+        "Area": "348km^2",
+        "Demonym": "nan",
+        "Population": "111,454"
+    },
+    "Guadeloupe": {
+        "Capital City": "nan",
+        "Area": "1,628km^2",
+        "Demonym": "nan",
+        "Population": "nan"
+    },
+    "Guam": {
+        "Capital City": "Hag\u00e5t\u00f1a",
+        "Area": "540km^2",
+        "Demonym": "Guamanian",
+        "Population": "168,485"
+    },
+    "Guatemala": {
+        "Capital City": "Guatemala City",
+        "Area": "108,889km^2",
+        "Demonym": "Guatemalan",
+        "Population": "17,263,239"
+    },
+    "Guinea": {
+        "Capital City": "Conakry",
+        "Area": "245,857km^2",
+        "Demonym": "Guinean",
+        "Population": "12,414,293"
+    },
+    "Guinea-Bissau": {
+        "Capital City": "Bissau",
+        "Area": "36,125km^2",
+        "Demonym": "nan",
+        "Population": "1,874,303"
+    },
+    "Guyana": {
+        "Capital City": "Georgetown, Guyana",
+        "Area": "214,970km^2",
+        "Demonym": "Guyanese",
+        "Population": "786,391"
+    },
+    "Haiti": {
+        "Capital City": "Port-au-Prince",
+        "Area": "27,750km^2",
+        "Demonym": "Haitian",
+        "Population": "11,123,178"
+    },
+    "Honduras": {
+        "Capital City": "Tegucigalpa",
+        "Area": "112,492km^2",
+        "Demonym": "nan",
+        "Population": "9,587,522"
+    },
+    "Hungary": {
+        "Capital City": "Budapest",
+        "Area": "93,030km^2",
+        "Demonym": "Hungarian",
+        "Population": "9,772,756"
+    },
+    "Iceland": {
+        "Capital City": "Reykjav\u00edk",
+        "Area": "102,775km^2",
+        "Demonym": "nan",
+        "Population": "364,134"
+    },
+    "India": {
+        "Capital City": "New Delhi",
+        "Area": "3,287,263km^2",
+        "Demonym": "Indian",
+        "Population": "1,352,642,280"
+    },
+    "Indonesia": {
+        "Capital City": "Jakarta",
+        "Area": "1,904,569km^2",
+        "Demonym": "Indonesian",
+        "Population": "267,670,543"
+    },
+    "Iran": {
+        "Capital City": "Tehran",
+        "Area": "1,648,195km^2",
+        "Demonym": "nan",
+        "Population": "83,183,741"
+    },
+    "Republic_of_Ireland": {
+        "Capital City": "Dublin",
+        "Area": "70,273km^2",
+        "Demonym": "Irish",
+        "Population": "4,921,500"
+    },
+    "Israel": {
+        "Capital City": "Jerusalem",
+        "Area": "20,770\u201322,07km^2",
+        "Demonym": "Israeli",
+        "Population": "9,230,640"
+    },
+    "Italy": {
+        "Capital City": "Rome",
+        "Area": "301,340km^2",
+        "Demonym": "Italian",
+        "Population": "60,317,116"
+    },
+    "Jamaica": {
+        "Capital City": "Kingston, Jamaica",
+        "Area": "10,991km^2",
+        "Demonym": "Jamaican",
+        "Population": "2,726,667"
+    },
+    "Japan": {
+        "Capital City": "Tokyo",
+        "Area": "377,975km^2",
+        "Demonym": "nan",
+        "Population": "125,930,000"
+    },
+    "Jordan": {
+        "Capital City": "Amman",
+        "Area": "89,342km^2",
+        "Demonym": "Jordanian",
+        "Population": "10,658,123"
+    },
+    "Kazakhstan": {
+        "Capital City": "Nur-Sultan",
+        "Area": "2,724,900km^2",
+        "Demonym": "nan",
+        "Population": "18,711,200"
+    },
+    "Kenya": {
+        "Capital City": "Nairobi",
+        "Area": "580,367km^2",
+        "Demonym": "nan",
+        "Population": "47,564,296"
+    },
+    "Kiribati": {
+        "Capital City": "South Tarawa",
+        "Area": "811km^2",
+        "Demonym": "I-Kiribati",
+        "Population": "123,199"
+    },
+    "Kuwait": {
+        "Capital City": "Kuwait City",
+        "Area": "17,818km^2",
+        "Demonym": "nan",
+        "Population": "nan"
+    },
+    "Kyrgyzstan": {
+        "Capital City": "Bishkek",
+        "Area": "199,951km^2",
+        "Demonym": "nan",
+        "Population": "6,533,500"
+    },
+    "Laos": {
+        "Capital City": "Vientiane",
+        "Area": "237,955km^2",
+        "Demonym": "nan",
+        "Population": "nan"
+    },
+    "Latvia": {
+        "Capital City": "Riga",
+        "Area": "64,589km^2",
+        "Demonym": "Latvian",
+        "Population": "1,919,968"
+    },
+    "Lebanon": {
+        "Capital City": "Beirut",
+        "Area": "10,452km^2",
+        "Demonym": "Lebanese",
+        "Population": "6,859,408"
+    },
+    "Lesotho": {
+        "Capital City": "Maseru",
+        "Area": "30,355km^2",
+        "Demonym": "singular",
+        "Population": "2,108,328"
+    },
+    "Liberia": {
+        "Capital City": "Monrovia",
+        "Area": "111,369km^2",
+        "Demonym": "Liberian",
+        "Population": "5,073,296"
+    },
+    "Libya": {
+        "Capital City": "Tripoli",
+        "Area": "1,759,541km^2",
+        "Demonym": "nan",
+        "Population": "6,871,287"
+    },
+    "Lithuania": {
+        "Capital City": "Vilnius",
+        "Area": "65,300km^2",
+        "Demonym": "Lithuanian",
+        "Population": "2,794,329"
+    },
+    "Luxembourg": {
+        "Capital City": "Luxembourg City",
+        "Area": "2,586km^2",
+        "Demonym": "Luxembourger",
+        "Population": "626,108"
+    },
+    "North_Macedonia": {
+        "Capital City": "Skopje",
+        "Area": "25,713km^2",
+        "Demonym": "nan",
+        "Population": "2,077,132"
+    },
+    "Madagascar": {
+        "Capital City": "Antananarivo",
+        "Area": "587,041km^2",
+        "Demonym": "Malagasy",
+        "Population": "26,262,313"
+    },
+    "Malawi": {
+        "Capital City": "Lilongwe",
+        "Area": "118,484km^2",
+        "Demonym": "Malawian",
+        "Population": "19,129,952 "
+    },
+    "Malaysia": {
+        "Capital City": "Kuala Lumpur",
+        "Area": "330,803km^2",
+        "Demonym": "Malaysian",
+        "Population": "32,730,000"
+    },
+    "Maldives": {
+        "Capital City": "Mal\u00e9",
+        "Area": "298km^2",
+        "Demonym": "Maldivian",
+        "Population": "379,270"
+    },
+    "Mali": {
+        "Capital City": "Bamako",
+        "Area": "1,240,192km^2",
+        "Demonym": "nan",
+        "Population": "20,250,833 "
+    },
+    "Malta": {
+        "Capital City": "Valletta",
+        "Area": "316km^2",
+        "Demonym": "Maltese",
+        "Population": "514,564"
+    },
+    "Martinique": {
+        "Capital City": "nan",
+        "Area": "1,128km^2",
+        "Demonym": "nan",
+        "Population": "nan"
+    },
+    "Mauritania": {
+        "Capital City": "Nouakchott",
+        "Area": "1,030,000km^2",
+        "Demonym": "nan",
+        "Population": "4,403,313"
+    },
+    "Mauritius": {
+        "Capital City": "Port Louis",
+        "Area": "2,040km^2",
+        "Demonym": "Mauritian",
+        "Population": "1,265,475"
+    },
+    "Mexico": {
+        "Capital City": "Mexico City",
+        "Area": "1,972,550km^2",
+        "Demonym": "Mexican",
+        "Population": "128,649,565"
+    },
+    "Moldova": {
+        "Capital City": "Chi\u0219in\u0103u",
+        "Area": "33,846km^2",
+        "Demonym": "Moldovan",
+        "Population": "2,640,400 "
+    },
+    "Mongolia": {
+        "Capital City": "Ulaanbaatar",
+        "Area": "1,566,000km^2",
+        "Demonym": "Mongol",
+        "Population": "3,353,470"
+    },
+    "Montenegro": {
+        "Capital City": "Podgorica",
+        "Area": "13,812km^2",
+        "Demonym": "nan",
+        "Population": "nan"
+    },
+    "Morocco": {
+        "Capital City": "Rabat",
+        "Area": "710,850km^2",
+        "Demonym": "Moroccan",
+        "Population": "36,472,000"
+    },
+    "Mozambique": {
+        "Capital City": "Maputo",
+        "Area": "801,590km^2",
+        "Demonym": "nan",
+        "Population": "30,066,648 "
+    },
+    "Myanmar": {
+        "Capital City": "Naypyidaw",
+        "Area": "676,578km^2",
+        "Demonym": "nan",
+        "Population": "nan"
+    },
+    "Namibia": {
+        "Capital City": "Windhoek",
+        "Area": "825,615km^2",
+        "Demonym": "nan",
+        "Population": "2,746,745 "
+    },
+    "Nepal": {
+        "Capital City": "Kathmandu",
+        "Area": "147,516km^2",
+        "Demonym": "Nepali",
+        "Population": "28,095,714"
+    },
+    "Netherlands": {
+        "Capital City": "Amsterdam",
+        "Area": "41,865km^2",
+        "Demonym": "nan",
+        "Population": "nan"
+    },
+    "Netherlands_Antilles": {
+        "Capital City": "Willemstad",
+        "Area": "999km^2",
+        "Demonym": "nan",
+        "Population": "nan"
+    },
+    "New_Caledonia": {
+        "Capital City": "Noum\u00e9a",
+        "Area": "18,576km^2",
+        "Demonym": "nan",
+        "Population": "271,407"
+    },
+    "New_Zealand": {
+        "Capital City": "Wellington",
+        "Area": "268,021km^2",
+        "Demonym": "New Zealander",
+        "Population": "5,010,500"
+    },
+    "Nicaragua": {
+        "Capital City": "Managua",
+        "Area": "130,375km^2",
+        "Demonym": "Nicaraguan",
+        "Population": "6,486,201"
+    },
+    "Niger": {
+        "Capital City": "Niamey",
+        "Area": "1,267,000km^2",
+        "Demonym": "n</span></span>/",
+        "Population": "nan"
+    },
+    "Nigeria": {
+        "Capital City": "Abuja",
+        "Area": "923,769km^2",
+        "Demonym": "Nigerian",
+        "Population": "206,630,269"
+    },
+    "Norway": {
+        "Capital City": "Oslo",
+        "Area": "385,207km^2",
+        "Demonym": "Norwegian",
+        "Population": "5,432,580"
+    },
+    "North_Korea": {
+        "Capital City": "Pyongyang",
+        "Area": "120,540km^2",
+        "Demonym": "Korean",
+        "Population": "25,549,604"
+    },
+    "Oman": {
+        "Capital City": "Muscat, Oman",
+        "Area": "309,500km^2",
+        "Demonym": "Omani",
+        "Population": "4,829,473"
+    },
+    "Pakistan": {
+        "Capital City": "Islamabad",
+        "Area": "881,913km^2",
+        "Demonym": "Pakistani",
+        "Population": "212,228,286"
+    },
+    "Panama": {
+        "Capital City": "Panama City",
+        "Area": "75,417km^2",
+        "Demonym": "Panamanian",
+        "Population": "4,176,869"
+    },
+    "Papua_New_Guinea": {
+        "Capital City": "Port Moresby",
+        "Area": "462,840km^2",
+        "Demonym": "Papua New Guinean",
+        "Population": "nan"
+    },
+    "Paraguay": {
+        "Capital City": "Asunci\u00f3n",
+        "Area": "406,752km^2",
+        "Demonym": "Paraguayan",
+        "Population": "7,252,672"
+    },
+    "Peru": {
+        "Capital City": "Lima",
+        "Area": "1,285,216km^2",
+        "Demonym": "Peruvian",
+        "Population": "32,824,358 "
+    },
+    "Philippines": {
+        "Capital City": "City of Manila",
+        "Area": "300,000km^2",
+        "Demonym": "Filipino",
+        "Population": "100,981,437"
+    },
+    "Poland": {
+        "Capital City": "Warsaw",
+        "Area": "312,696km^2",
+        "Demonym": "nan",
+        "Population": "38,383,000"
+    },
+    "Portugal": {
+        "Capital City": "Lisbon",
+        "Area": "92,212km^2",
+        "Demonym": "Portuguese",
+        "Population": "10,295,909"
+    },
+    "Qatar": {
+        "Capital City": "Doha",
+        "Area": "11,581km^2",
+        "Demonym": "nan",
+        "Population": "2,795,484"
+    },
+    "R%C3%A9union": {
+        "Capital City": "nan",
+        "Area": "2,511km^2",
+        "Demonym": "nan",
+        "Population": "nan"
+    },
+    "Romania": {
+        "Capital City": "Bucharest",
+        "Area": "238,397km^2",
+        "Demonym": "Romanian",
+        "Population": "19,405,156"
+    },
+    "Russia": {
+        "Capital City": "Moscow",
+        "Area": "17,098,246km^2",
+        "Demonym": "Russian",
+        "Population": "nan"
+    },
+    "Rwanda": {
+        "Capital City": "Kigali",
+        "Area": "26,338km^2",
+        "Demonym": "nan",
+        "Population": "12,374,397"
+    },
+    "Saint_Kitts_and_Nevis": {
+        "Capital City": "Basseterre",
+        "Area": "261km^2",
+        "Demonym": "nan",
+        "Population": "52,441"
+    },
+    "Saint_Lucia": {
+        "Capital City": "Castries",
+        "Area": "617km^2",
+        "Demonym": "Saint Lucian",
+        "Population": "181,889"
+    },
+    "Saint_Vincent_and_the_Grenadines": {
+        "Capital City": "Kingstown",
+        "Area": "389km^2",
+        "Demonym": "nan",
+        "Population": "110,211"
+    },
+    "Samoa": {
+        "Capital City": "Apia",
+        "Area": "2,842km^2",
+        "Demonym": "Samoan",
+        "Population": "195,843"
+    },
+    "S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe": {
+        "Capital City": "S\u00e3o Tom\u00e9",
+        "Area": "1,001km^2",
+        "Demonym": "nan",
+        "Population": "211,028"
+    },
+    "Saudi_Arabia": {
+        "Capital City": "Riyadh",
+        "Area": "2,149,690km^2",
+        "Demonym": "Saudi",
+        "Population": "34,218,169"
+    },
+    "Senegal": {
+        "Capital City": "Dakar",
+        "Area": "196,712km^2",
+        "Demonym": "Senegalese",
+        "Population": "15,854,323"
+    },
+    "Serbia": {
+        "Capital City": "Belgrade",
+        "Area": "88,361km^2",
+        "Demonym": "Serbian",
+        "Population": "nan"
+    },
+    "Federal_Republic_of_Yugoslavia": {
+        "Capital City": "Belgrade",
+        "Area": "102,350km^2",
+        "Demonym": "Yugoslav",
+        "Population": "nan"
+    },
+    "Seychelles": {
+        "Capital City": "Victoria, Seychelles",
+        "Area": "459km^2",
+        "Demonym": "nan",
+        "Population": "97,096"
+    },
+    "Sierra_Leone": {
+        "Capital City": "Freetown",
+        "Area": "71,740km^2",
+        "Demonym": "nan",
+        "Population": "7,092,113"
+    },
+    "Singapore": {
+        "Capital City": "nan",
+        "Area": "725km^2",
+        "Demonym": "Singaporean",
+        "Population": "5,703,600"
+    },
+    "Slovakia": {
+        "Capital City": "Bratislava",
+        "Area": "49,035km^2",
+        "Demonym": "Slovak",
+        "Population": "5,457,926"
+    },
+    "Slovenia": {
+        "Capital City": "Ljubljana",
+        "Area": "20,271km^2",
+        "Demonym": "Slovene",
+        "Population": "2,095,861"
+    },
+    "Solomon_Islands": {
+        "Capital City": "Honiara",
+        "Area": "28,400km^2",
+        "Demonym": "nan",
+        "Population": "652,857"
+    },
+    "South_Africa": {
+        "Capital City": "Pretoria",
+        "Area": "1,221,037km^2",
+        "Demonym": "South African",
+        "Population": "59,622,350"
+    },
+    "South_Korea": {
+        "Capital City": "Seoul",
+        "Area": "100,363km^2",
+        "Demonym": "Korean",
+        "Population": "51,709,098"
+    },
+    "Spain": {
+        "Capital City": "Madrid",
+        "Area": "505,990km^2",
+        "Demonym": "Spanish",
+        "Population": "47,431,256"
+    },
+    "Sri_Lanka": {
+        "Capital City": "Sri Jayawardenepura Kotte",
+        "Area": "65,610km^2",
+        "Demonym": "Sri Lankan",
+        "Population": "21,803,000"
+    },
+    "Sudan": {
+        "Capital City": "Khartoum",
+        "Area": "1,886,068km^2",
+        "Demonym": "nan",
+        "Population": "41,592,539 "
+    },
+    "Suriname": {
+        "Capital City": "Paramaribo",
+        "Area": "163,821km^2",
+        "Demonym": "Surinamese",
+        "Population": "575,990"
+    },
+    "Eswatini": {
+        "Capital City": "nan",
+        "Area": "17,364km^2",
+        "Demonym": "nan",
+        "Population": "1,136,281"
+    },
+    "Sweden": {
+        "Capital City": "Stockholm",
+        "Area": "450,295km^2",
+        "Demonym": "Swedish",
+        "Population": "10,343,403"
+    },
+    "Switzerland": {
+        "Capital City": "De jure",
+        "Area": "41,285km^2",
+        "Demonym": "Swiss",
+        "Population": "8,570,146"
+    },
+    "Syria": {
+        "Capital City": "Damascus",
+        "Area": "185,180km^2",
+        "Demonym": "Syrian",
+        "Population": "nan"
+    },
+    "Tajikistan": {
+        "Capital City": "Dushanbe",
+        "Area": "143,100km^2",
+        "Demonym": "nan",
+        "Population": "9,537,645 "
+    },
+    "Thailand": {
+        "Capital City": "Bangkok",
+        "Area": "513,120km^2",
+        "Demonym": "Siamese",
+        "Population": "69,758,935"
+    },
+    "East_Timor": {
+        "Capital City": "Dili",
+        "Area": "15,007km^2",
+        "Demonym": "nan",
+        "Population": "1,183,643"
+    },
+    "Tanzania": {
+        "Capital City": "Dodoma",
+        "Area": "947,303km^2",
+        "Demonym": "nan",
+        "Population": "56,313,438"
+    },
+    "Togo": {
+        "Capital City": "Lom\u00e9",
+        "Area": "56,785km^2",
+        "Demonym": "Togolese",
+        "Population": "8,608,444"
+    },
+    "Trinidad_and_Tobago": {
+        "Capital City": "Port of Spain",
+        "Area": "5,131km^2",
+        "Demonym": "nan",
+        "Population": "1,363,985"
+    },
+    "Tunisia": {
+        "Capital City": "Tunis",
+        "Area": "163,610km^2",
+        "Demonym": "Tunisian",
+        "Population": "11,722,038"
+    },
+    "Turkey": {
+        "Capital City": "Ankara",
+        "Area": "783,356km^2",
+        "Demonym": "Turkish",
+        "Population": "83,154,997"
+    },
+    "Turkmenistan": {
+        "Capital City": "Ashgabat",
+        "Area": "491,210km^2",
+        "Demonym": "nan",
+        "Population": "6,031,187 "
+    },
+    "Uganda": {
+        "Capital City": "Kampala",
+        "Area": "241,038km^2",
+        "Demonym": "nan",
+        "Population": "42,729,036"
+    },
+    "Ukraine": {
+        "Capital City": "Kiev",
+        "Area": "603,628km^2",
+        "Demonym": "Ukrainian",
+        "Population": "41,660,982"
+    },
+    "United_Arab_Emirates": {
+        "Capital City": "Abu Dhabi",
+        "Area": "83,600km^2",
+        "Demonym": "Emirati",
+        "Population": "9,890,400"
+    },
+    "United_Kingdom": {
+        "Capital City": "London",
+        "Area": "242,495km^2",
+        "Demonym": "British",
+        "Population": "67,886,004"
+    },
+    "United_States": {
+        "Capital City": "nan",
+        "Area": "3,796,742km^2",
+        "Demonym": "American",
+        "Population": "328,239,523"
+    },
+    "United_States_Virgin_Islands": {
+        "Capital City": "Charlotte Amalie, U.S. Virgin Islands",
+        "Area": "346km^2",
+        "Demonym": "nan",
+        "Population": "106,405"
+    },
+    "Uruguay": {
+        "Capital City": "Montevideo",
+        "Area": "176,215km^2",
+        "Demonym": "Uruguayan",
+        "Population": "3,518,552 "
+    },
+    "Uzbekistan": {
+        "Capital City": "Tashkent",
+        "Area": "448,978km^2",
+        "Demonym": "nan",
+        "Population": "34,036,800"
+    },
+    "Vanuatu": {
+        "Capital City": "Port Vila",
+        "Area": "12,189km^2",
+        "Demonym": "nan",
+        "Population": "nan"
+    },
+    "Venezuela": {
+        "Capital City": "Caracas",
+        "Area": "916,445km^2",
+        "Demonym": "Venezuelan",
+        "Population": "28,887,118 "
+    },
+    "Vietnam": {
+        "Capital City": "Hanoi",
+        "Area": "331,212km^2",
+        "Demonym": "Vietnamese",
+        "Population": "96,208,984"
+    },
+    "Yemen": {
+        "Capital City": "Sanaa",
+        "Area": "527,968km^2",
+        "Demonym": "nan",
+        "Population": "28,498,683"
+    },
+    "Zambia": {
+        "Capital City": "Lusaka",
+        "Area": "752,618km^2",
+        "Demonym": "Zambian",
+        "Population": "17,351,708"
+    },
+    "Zimbabwe": {
+        "Capital City": "Harare",
+        "Area": "390,757km^2",
+        "Demonym": "nan",
+        "Population": "16,159,624"
+    }
+}
